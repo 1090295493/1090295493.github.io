@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: JunjSix@outlook.com 
 description: "Aloha~这里是小啵老师,你能在这里发现关于我的任何东西."
 keyword: "Blog, JunjSix Blog, 小啵儿的博客, JunjSix, 谢俊杰, 混音, 插件, pro tools"
-url: "http://1090295493.github.io"          # your host, for absolute URL
+url: ""          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
