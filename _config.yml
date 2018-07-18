@@ -4,7 +4,7 @@ SEOTitle: 小啵儿的小站 | JunjSix Blog
 header-img: img/post-bg-desk.jpg
 email: JunjSix@outlook.com & 1090295493@qq.com
 description: "Aloha~这里是小啵老师,你能在这里发现关于我的任何东西."
-keyword: "BY, BY Blog, 小啵儿的博客, JunjSix, 谢俊杰, iOS, Apple, iPhone"
+keyword: "Blog, JunjSix Blog, 小啵儿的博客, JunjSix, 谢俊杰, 混音, 插件, pro tools"
 url: "http://1090295493.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     是小啵老师没错了
+zhihu_username:     JunjSix
+github_username:    JunjSix
+facebook_username:  暂无
+jianshu_username:   暂无
+#twitter_username:   暂无
 
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: 1090295493.github.io    #仓库名称
+  owner: 1090295493    #github用户名
+  admin: 1090295493
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: sixbor.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
