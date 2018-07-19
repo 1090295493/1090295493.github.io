@@ -65,7 +65,7 @@ zhihu_username:     junjsix
 
 permalink: pretty
 
-paginate: 3
+paginate: 2
 
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
