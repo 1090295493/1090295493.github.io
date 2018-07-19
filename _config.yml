@@ -6,6 +6,12 @@ SEOTitle: 小啵儿的小站 | JunjSix Blog
 
 header-img: img/post-bg-universe.jpg
 
+    <!--copied from markdown -->
+
+    <blockquote><p>很高兴遇见你<br>
+
+    还希望能陪我一直走下去</p></blockquote>
+
 email: JunjSix@outlook.com 
 
 description: "Aloha~这里是小啵老师,你能在这里发现关于我的任何东西."
@@ -62,9 +68,6 @@ zhihu_username:     junjsix
 # Build settings
 
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-    <!--copied from markdown -->
-    <blockquote><p>很高兴遇见你<br>
-    还希望能陪我一直走下去</p></blockquote>
 
 permalink: pretty
 
