@@ -9,6 +9,8 @@ header-img: img/post-bg-universe.jpg
 email: JunjSix@outlook.com 
 
 description: "Aloha~这里是小啵老师,你能在这里发现关于我的任何东西."
+ 
+ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"] 
 
 
 
@@ -150,5 +152,5 @@ featured-condition-size: 0              # 相同标签数量大于这个数，�
 
 chrome-tab-theme-color: "#000000"
 
-service-worker: false
+service-worker: true
 
