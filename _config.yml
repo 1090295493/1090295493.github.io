@@ -64,7 +64,7 @@ zhihu_username:     junjsix
 
 permalink: pretty
 
-paginate: 10
+paginate: 1
 
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
@@ -144,7 +144,7 @@ gitalk:
 
 featured-tags: true                     # 是否使用首页标签
 
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
