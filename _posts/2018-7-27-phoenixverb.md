@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      【插件】凤凰混响-Exponential.Audio.PhoenixVerb.Stereo.Reverb.v2.1.3 下载 & 安装教程
 subtitle:   同样也是非常棒的混响 但小啵儿喜欢用在总线
