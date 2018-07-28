@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      【插件】FabFilter.Total.Bundle.v2017.03.23.Incl 下载 & 安装教程
-subtitle:   最华丽的插件套装
+subtitle:   华丽的插件套装
 date:       2018-07-25
 author:     JunjSix
 header-img: img/bm_2.jpg
@@ -25,4 +25,4 @@ FabFilter在Pro Tools中无法正常激活，请使用其他宿主激活后再�
 
 
   [1]: https://pan.baidu.com/s/1Jjg4C37EQev5asMDy2Mq6A
-  [2]: https://www.bilibili.com/video/av21870534
+  [2]: https://www.bilibili.com/video/av8659721/
